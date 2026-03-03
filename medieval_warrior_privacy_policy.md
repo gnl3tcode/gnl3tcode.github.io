@@ -1,12 +1,14 @@
 PRIVACY POLICY - "medieval warrior"
 
+
 This page discloses application access, collection, use, and sharing of the data. 
+
 
 Starting show ads from 03 March 2026. Google AdMob SDK is used to show ads:
 1. Users under 18 years old are shown limited ads with no personal data gathered according family compliance requirements:
--about family compliance requirements - https://support.google.com/googleplay/android-developer/answer/9867159
--about limited ads - https://support.google.com/admob/answer/10105530#zippy=%2Cfeatures-not-available-with-limited-ads
-2. Users above 18 years old are being collected from the following data(according AdMob SDK data usage disclosure - https://developers.google.com/admob/android/privacy/play-data-disclosure ):
+-about family compliance requirements - <https://support.google.com/googleplay/android-developer/answer/9867159>
+-about limited ads - <https://support.google.com/admob/answer/10105530#zippy=%2Cfeatures-not-available-with-limited-ads>
+2. Users above 18 years old are being collected from the following data(according AdMob SDK data usage disclosure - <https://developers.google.com/admob/android/privacy/play-data-disclosure>):
 -IP address - collects device's IP address, which may be used to estimate the general location of a device.
 -user product interactions - collects user product interactions and interaction information, including app launch, taps, and video views.
 -diagnostic information	- collects information related to the performance of your app and the SDK, including app launch time, hang rate, and energy usage.
