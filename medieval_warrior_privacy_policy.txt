@@ -1,27 +1,16 @@
-PRIVACY POLICY - "Medieval warrior"
+PRIVACY POLICY - "medieval warrior"
 
 
-This page discloses application access, collection, use, and sharing of the data. 
+This page discloses application access, collection, use, and sharing of the data.
 
 
+Starting show ads from 03 March 2026. Google AdMob SDK is used to show ads:
 
-Information collection and use
+Users under 18 years old are shown limited ads with no personal data gathered according family compliance requirements: -about family compliance requirements - https://support.google.com/googleplay/android-developer/answer/9867159 -about limited ads - https://support.google.com/admob/answer/10105530#zippy=%2Cfeatures-not-available-with-limited-ads
+Users above 18 years old are being collected from the following data(according AdMob SDK data usage disclosure - https://developers.google.com/admob/android/privacy/play-data-disclosure ): -IP address - collects device's IP address, which may be used to estimate the general location of a device. -user product interactions - collects user product interactions and interaction information, including app launch, taps, and video views. -diagnostic information - collects information related to the performance of your app and the SDK, including app launch time, hang rate, and energy usage. -Device and Account identifiers - collects Android advertising (ad) ID, app set ID, and, if applicable, other identifiers related to signed-in accounts on the device. The data described being collected only by AdMob SDK.
+Starting from online player vs player mode release date(03 March 2026) user id is required to identify user on game servers. This user id is generated randomly, not using any user personal data and not linked to any user personal data. This id is stored locally on device and transferred to server only when user request to start online search for opponent. This id will be removed automatically when application will be removed from device. This id is stored in private application directory and no other app can access it because of protection provided by Android OS.
 
-Starting from application release date(01 March 2021) the only data stored locally on your device is related to game progress and player's equipment configuration and purchases. This data is stored in private application directory and no other app can access it because of protection provided by Android OS.
-
-No data is sent to any server or third parties.
-
-
-Upcoming planned changes
-
-All changes will be notified to user on their implementation date and will allow to refuse or restrict further usage of application if user don't wish to comply with changes.
-
-In the future it is planned to add online multiplayer mode, Ad services and in-app purchases which will require to change this policy and collect minimum required data to provide better experience for users(such as logged-in user email to allow bans for cheating, optionally allow identification for online back-up data on user demand, exchange players nicknames, determine pings to server, etc.). In case of Ad services and in-app purchases it may require to store and provide on demand cookies or other identification form which required by related services.
-
-All data share required will be restricted to described purpose and will not be sold or provided to any other parties. To provide security sensitive private data will be exchanged by HTTPS protocol with built-in encryption and additionally all sensitive user data will be encrypted if possible.
+Other data stored locally on device is related to game progress and player's equipment configuration and purchases. This data is stored in private application directory and no other app can access it because of protection provided by Android OS. When search for opponent some of player data is sent to server and to found opponents(weapons equipped, nickname, rating level, etc.). To avoid security risks no sensitive or personal data is stored in application or sent by network.
 
 
-
-
-
-This policy is effective starting from 19 January 2022.
+This policy is effective starting from 03 March 2026.
